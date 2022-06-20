@@ -4,3 +4,8 @@ table{
   width:1000px;
   line-height: 40px;
 }
+
+td {
+  padding: 5px;
+  border:1px solid blue;
+}
